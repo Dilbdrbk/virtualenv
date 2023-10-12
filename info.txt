@@ -1,0 +1,2 @@
+python3 -m venv myenv (creating an enviroment for project)
+source myenv/bin/activate  (activating enviroment)
